@@ -1,6 +1,4 @@
-# Homework 10
-
-## Time Series
+# Time Series
 
 My name is Oscar Lopez, I’m a student at the University of Miami FinTech Bootcamp Program.
 
